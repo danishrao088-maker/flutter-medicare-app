@@ -2,28 +2,24 @@
 
 A modern Flutter application that helps users manage medicines, track medicine stock, set reminders, and maintain daily medicine records. The application works completely offline using SQLite and provides a secure login system.
 
-# 📱 Screenshots
 
-### Splash Screen
-![Splash](screenshots/splash.jpg)
+## 📸 App Screenshots
 
-### Login Screen
-![Login](screenshots/login.jpg)
+| Login | Register |
+|--------|----------|
+| ![Login](screenshots/login.jpeg) | ![Register](screenshots/register.jpeg) |
 
-### Register Screen
-![Register](screenshots/register.jpg)
+| Home | Add Medicine |
+|------|--------------|
+| ![Home](screenshots/home.jpeg) | ![Add Medicine](screenshots/add_medicine.jpeg) |
 
-### Home Screen
-![Home](screenshots/home.jpg)
+| Reminders | Add Reminder |
+|-----------|--------------|
+| ![Reminders](screenshots/reminders.jpeg) | ![Add Reminder](screenshots/add_reminder.jpeg) |
 
-### Add Medicine
-![Add Medicine](screenshots/add_medicine.jpg)
-
-### Medicine Details
-![Medicine Details](screenshots/medicine_details.jpg)
-
-### Reminder Screen
-![Reminder](screenshots/reminder.jpg)
+| Splash Screen |
+|---------------|
+| ![Splash](screenshots/splash.jpeg) |
 
 # ✨ Features
 
