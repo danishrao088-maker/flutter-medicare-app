@@ -98,6 +98,12 @@ Output:
 
 build/app/outputs/flutter-apk/app-release.apk
 
+## 📥 Download APK
+
+You can download the latest Android APK directly from this repository.
+
+*👉 [Download MediCare APK](./app-arm64-v8a-release.apk)*
+
 
 
 # 👨‍💻 Developer
