@@ -2,11 +2,7 @@
 
 A modern Flutter application that helps users manage medicines, track medicine stock, set reminders, and maintain daily medicine records. The application works completely offline using SQLite and provides a secure login system.
 
----
-
 # 📱 Screenshots
-
-> Add your mobile screenshots inside a folder named *screenshots*.
 
 ### Splash Screen
 ![Splash](screenshots/splash.jpg)
@@ -29,8 +25,6 @@ A modern Flutter application that helps users manage medicines, track medicine s
 ### Reminder Screen
 ![Reminder](screenshots/reminder.jpg)
 
----
-
 # ✨ Features
 
 - Secure Login & Registration
@@ -44,8 +38,6 @@ A modern Flutter application that helps users manage medicines, track medicine s
 - Modern Material 3 UI
 - Fast and User Friendly
 
----
-
 # 🛠️ Tech Stack
 
 - Flutter
@@ -57,8 +49,6 @@ A modern Flutter application that helps users manage medicines, track medicine s
 - Google Fonts
 - FL Chart
 
----
-
 # 📂 Project Structure
 
 
@@ -68,9 +58,6 @@ ios/
 test/
 pubspec.yaml
 README.md
-
-
----
 
 # 🚀 Getting Started
 
@@ -98,8 +85,6 @@ bash
 flutter build apk --release
 
 
----
-
 # 📦 APK
 
 APK can be generated using:
@@ -114,7 +99,6 @@ Output:
 build/app/outputs/flutter-apk/app-release.apk
 
 
----
 
 # 👨‍💻 Developer
 
