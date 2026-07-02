@@ -4,6 +4,9 @@ A modern Flutter application that helps users manage medicines, track medicine s
 
 
 ## 📸 App Screenshots
+| Splash Screen |
+|---------------|
+| ![Splash](screenshots/splash.jpeg) |
 
 | Login | Register |
 |--------|----------|
@@ -17,9 +20,7 @@ A modern Flutter application that helps users manage medicines, track medicine s
 |-----------|--------------|
 | ![Reminders](screenshots/reminders.jpeg) | ![Add Reminder](screenshots/add_reminder.jpeg) |
 
-| Splash Screen |
-|---------------|
-| ![Splash](screenshots/splash.jpeg) |
+
 
 # ✨ Features
 
