@@ -1,0 +1,26 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    # Treat missing required imports as errors but keep deprecation as warnings
+    invalid_assignment: warning
+    missing_required_param: error
+    missing_return: error
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - "build/**"
+
+linter:
+  rules:
+    # Style
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+    prefer_const_declarations: true
+    avoid_print: true
+    avoid_unnecessary_containers: true
+    sort_child_properties_last: true
+    use_key_in_widget_constructors: true
+    # Disable some that are noisy in this style of app
+    avoid_function_literals_in_foreach_calls: false
+    use_super_parameters: true
